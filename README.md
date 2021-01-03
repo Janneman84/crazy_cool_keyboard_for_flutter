@@ -1,5 +1,5 @@
 # crazy_cool_keyboard_for_flutter
-Lets Flutter take control over the iOS soft keyboard position. This allows for a smoother UI experience and lets you swipe the keyboard away too.
+Lets Flutter take control over the iOS soft keyboard position. This allows for a smoother UI experience and lets you swipe the keyboard away too!
 
 So far it's just a proof of concept and not production ready and is meant to inspire you all. Please don't hesitate to improve on this. For now I don't really have much time to improve it myself unfortunately.
 
